@@ -1,18 +1,11 @@
 class Solution {
 public:
-    int fac(int n){
-        if(n==0){
-            return 1; 
-        }
-        return n*fac(n-1); 
-    }
-
     int trailingZeroes(int n) {
-        int res = 0;
+        int count  =0 ;
         while(n > 0){
-            res += n / 5;
-            n = n / 5;
+            n /= 5;
+            count += n;
         }
-        return res;
+        return count;
     }
 };
