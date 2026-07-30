@@ -5,7 +5,7 @@ public:
         int q = n/8;
         int r = n %8;
 
-        return ((q<<2)+r)*(q+1);
+        return ((q*4)+r)*(q+1);
         
     }
 };
