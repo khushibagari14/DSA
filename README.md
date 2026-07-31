@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushibagari14/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2399-check-distances-between-same-letters](https://github.com/khushibagari14/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/khushibagari14/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/khushibagari14/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushibagari14/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushibagari14/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/khushibagari14/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2399-check-distances-between-same-letters](https://github.com/khushibagari14/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushibagari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/khushibagari14/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/khushibagari14/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushibagari14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/khushibagari14/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushibagari14/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/khushibagari14/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushibagari14/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/khushibagari14/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushibagari14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushibagari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushibagari14/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/khushibagari14/DSA/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/khushibagari14/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/khushibagari14/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushibagari14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushibagari14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushibagari14/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/khushibagari14/DSA/tree/master/3536-maximum-product-of-two-digits) |
