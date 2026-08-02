@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/khushibagari14/DSA/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushibagari14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/khushibagari14/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushibagari14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/khushibagari14/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushibagari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/khushibagari14/DSA/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushibagari14/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/khushibagari14/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2063-vowels-of-all-substrings](https://github.com/khushibagari14/DSA/tree/master/2063-vowels-of-all-substrings) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/khushibagari14/DSA/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushibagari14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/khushibagari14/DSA/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/khushibagari14/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushibagari14/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushibagari14/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -289,4 +292,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/khushibagari14/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
