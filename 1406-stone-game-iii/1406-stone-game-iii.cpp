@@ -1,22 +1,53 @@
+// class Solution {
+// public:
+//     string stoneGameIII(vector<int>& stoneValue) {
+//         int n = stoneValue.size();
+//         vector<int>dp(n + 1,0);
+//         for(int i = n-1 ;i >= 0 ;i--){
+//             dp[i] =INT_MIN;                      //TC == O(n) SC = O(n)
+//             int sum =0 ;
+//             for(int k =0 ;k < 3 && i + k < n ; k++){
+//                 sum += stoneValue[i+k];
+//                 dp[i] = max(dp[i], sum - dp[i + k + 1]);
+//             }
+
+//         }
+//         if (dp[0] > 0) return "Alice";
+//         if (dp[0] <0 ) return "Bob";
+//         return "Tie";
+//     }
+// };
 class Solution {
 public:
     string stoneGameIII(vector<int>& stoneValue) {
         int n = stoneValue.size();
-        int a = 0, b = 0;
-        if(n == 3){
-            a += stoneValue[0]+stoneValue[1];
-            b += stoneValue[2];
+ 
+        int dp1 = 0, dp2 = 0, dp3 = 0, dp4 = 0;           //TC = O(1) SC = O(1)
+        for (int i = n - 1; i >= 0; i--) {
+            int best = INT_MIN;
+            int sum = 0;
+
+            sum += stoneValue[i];
+            best = max(best, sum - dp1);
+
+            if (i + 1 < n) {
+                sum += stoneValue[i + 1];
+                best = max(best, sum - dp2);
+            }
+
+            if (i + 2 < n) {
+                sum += stoneValue[i + 2];
+                best = max(best, sum - dp3);
+            }
+
+            dp4 = dp3;
+            dp3 = dp2;
+            dp2 = dp1;
+            dp1 = best;
         }
-        else{
-        for (int i = 0; i < n; i++) {
-            if (i <= 2)
-                a += stoneValue[i];
-            else
-                b += stoneValue[i];
-        }
-        }
-        if (a > b) return "Alice";
-        if (b == a) return "Tie";
-        return "Bob";
+
+        if (dp1 > 0) return "Alice";
+        if (dp1 < 0) return "Bob";
+        return "Tie";
     }
 };
