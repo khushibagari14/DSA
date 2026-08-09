@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushibagari14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/khushibagari14/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/khushibagari14/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/khushibagari14/DSA/tree/master/1406-stone-game-iii) |
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushibagari14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/khushibagari14/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/khushibagari14/DSA/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushibagari14/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/khushibagari14/DSA/tree/master/1406-stone-game-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/khushibagari14/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/khushibagari14/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/khushibagari14/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/khushibagari14/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/khushibagari14/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/khushibagari14/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/khushibagari14/DSA/tree/master/1301-number-of-paths-with-max-score) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/khushibagari14/DSA/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/khushibagari14/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/khushibagari14/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/khushibagari14/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -317,10 +321,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/khushibagari14/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/khushibagari14/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/khushibagari14/DSA/tree/master/1406-stone-game-iii) |
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
 ## Backtracking
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/khushibagari14/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushibagari14/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/khushibagari14/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
