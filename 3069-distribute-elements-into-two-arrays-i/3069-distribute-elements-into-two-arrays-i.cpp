@@ -1,0 +1,27 @@
+class Solution {
+public:
+    vector<int> resultArray(vector<int>& nums) {
+        int n = nums.size();
+        vector<int>arr1;
+        vector<int>arr2;
+        vector<int>res;
+        
+        arr1.push_back(nums[0]);
+        arr2.push_back(nums[1]);
+        for (int i = 2; i < n; i++) {
+            if(arr1.back() > arr2.back()){
+                arr1.push_back(nums[i]);
+            }
+            else arr2.push_back(nums[i]);
+        }
+        
+        for(int& x : arr1){
+            res.push_back(x);
+        }
+        for(int & y : arr2){
+            res.push_back(y);
+        }
+
+    return res;    
+    }
+};
