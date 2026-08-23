@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/khushibagari14/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushibagari14/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/khushibagari14/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1927-sum-game](https://github.com/khushibagari14/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/khushibagari14/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2063-vowels-of-all-substrings](https://github.com/khushibagari14/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushibagari14/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/khushibagari14/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/khushibagari14/DSA/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/khushibagari14/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushibagari14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/khushibagari14/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushibagari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/khushibagari14/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushibagari14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/khushibagari14/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushibagari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushibagari14/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/khushibagari14/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/khushibagari14/DSA/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
+| [1927-sum-game](https://github.com/khushibagari14/DSA/tree/master/1927-sum-game) |
 ## Backtracking
 |  |
 | ------- |
