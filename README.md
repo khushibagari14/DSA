@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2063-vowels-of-all-substrings](https://github.com/khushibagari14/DSA/tree/master/2063-vowels-of-all-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushibagari14/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2399-check-distances-between-same-letters](https://github.com/khushibagari14/DSA/tree/master/2399-check-distances-between-same-letters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khushibagari14/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushibagari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushibagari14/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/khushibagari14/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/khushibagari14/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/khushibagari14/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushibagari14/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Combinatorics
