@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/khushibagari14/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushibagari14/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2399-check-distances-between-same-letters](https://github.com/khushibagari14/DSA/tree/master/2399-check-distances-between-same-letters) |
+| [2592-maximize-greatness-of-an-array](https://github.com/khushibagari14/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushibagari14/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/khushibagari14/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushibagari14/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushibagari14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/khushibagari14/DSA/tree/master/1927-sum-game) |
+| [2592-maximize-greatness-of-an-array](https://github.com/khushibagari14/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/khushibagari14/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushibagari14/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/khushibagari14/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushibagari14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2592-maximize-greatness-of-an-array](https://github.com/khushibagari14/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khushibagari14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/khushibagari14/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2592-maximize-greatness-of-an-array](https://github.com/khushibagari14/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushibagari14/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/khushibagari14/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushibagari14/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
