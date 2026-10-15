@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushibagari14/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/khushibagari14/DSA/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/khushibagari14/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/khushibagari14/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/khushibagari14/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/khushibagari14/DSA/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/khushibagari14/DSA/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
