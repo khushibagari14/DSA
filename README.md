@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushibagari14/DSA/tree/master/0002-add-two-numbers) |
 | [0172-factorial-trailing-zeroes](https://github.com/khushibagari14/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/khushibagari14/DSA/tree/master/0204-count-primes) |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/khushibagari14/DSA/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/khushibagari14/DSA/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/khushibagari14/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/khushibagari14/DSA/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/khushibagari14/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
