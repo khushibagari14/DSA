@@ -477,4 +477,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushibagari14/DSA/tree/master/0002-add-two-numbers) |
+| [0725-split-linked-list-in-parts](https://github.com/khushibagari14/DSA/tree/master/0725-split-linked-list-in-parts) |
 <!---LeetCode Topics End-->
