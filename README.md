@@ -350,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/khushibagari14/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/khushibagari14/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2592-maximize-greatness-of-an-array](https://github.com/khushibagari14/DSA/tree/master/2592-maximize-greatness-of-an-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/khushibagari14/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -478,4 +479,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/khushibagari14/DSA/tree/master/0002-add-two-numbers) |
 | [0725-split-linked-list-in-parts](https://github.com/khushibagari14/DSA/tree/master/0725-split-linked-list-in-parts) |
+| [0876-middle-of-the-linked-list](https://github.com/khushibagari14/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
