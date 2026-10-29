@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/khushibagari14/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/khushibagari14/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2399-check-distances-between-same-letters](https://github.com/khushibagari14/DSA/tree/master/2399-check-distances-between-same-letters) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/khushibagari14/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/khushibagari14/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushibagari14/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khushibagari14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/khushibagari14/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2399-check-distances-between-same-letters](https://github.com/khushibagari14/DSA/tree/master/2399-check-distances-between-same-letters) |
 | [2592-maximize-greatness-of-an-array](https://github.com/khushibagari14/DSA/tree/master/2592-maximize-greatness-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/khushibagari14/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushibagari14/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/khushibagari14/DSA/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/khushibagari14/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/khushibagari14/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2592-maximize-greatness-of-an-array](https://github.com/khushibagari14/DSA/tree/master/2592-maximize-greatness-of-an-array) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/khushibagari14/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/khushibagari14/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/khushibagari14/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/khushibagari14/DSA/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1686-stone-game-vi](https://github.com/khushibagari14/DSA/tree/master/1686-stone-game-vi) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/khushibagari14/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/khushibagari14/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/khushibagari14/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/khushibagari14/DSA/tree/master/3620-network-recovery-pathways) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/khushibagari14/DSA/tree/master/1260-shift-2d-grid) |
+| [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/khushibagari14/DSA/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3498-reverse-degree-of-a-string](https://github.com/khushibagari14/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/khushibagari14/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
